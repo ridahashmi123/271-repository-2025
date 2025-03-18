@@ -13,3 +13,9 @@ Close up of actual website wireframe:
 
 Close up of my replica:
 
+<img width="533" alt="Image" src="https://github.com/user-attachments/assets/3d7ca222-6837-4889-8c9a-44025f5da8bd" />
+
+
+Close up of actual wireframe:
+
+<img width="568" alt="Image" src="https://github.com/user-attachments/assets/600fa9c1-3b14-424f-8780-fc26c42dc980" />
