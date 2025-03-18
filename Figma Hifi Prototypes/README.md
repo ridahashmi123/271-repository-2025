@@ -7,16 +7,16 @@ https://www.figma.com/proto/fjbsuhvADGIFd41Xh45mSp/Lab4?node-id=3-7&t=s8XhSvDL5v
 
 Home Page:
 
-<img width="131" alt="Image" src="https://github.com/user-attachments/assets/b163b9fb-70f7-428b-a4db-d7061b6fec0f" />
+<img width="400" alt="Image" src="https://github.com/user-attachments/assets/b163b9fb-70f7-428b-a4db-d7061b6fec0f" />
 
 MineDonalds:
 
-<img width="143" alt="Image" src="https://github.com/user-attachments/assets/24321a4c-941f-4338-9489-30555fcbf67b" />
+<img width="400" alt="Image" src="https://github.com/user-attachments/assets/24321a4c-941f-4338-9489-30555fcbf67b" />
 
 CherryBlock Mansion:
 
-<img width="143" alt="Image" src="https://github.com/user-attachments/assets/5c79712d-5043-44d1-9729-6aea678eba22" />
+<img width="400" alt="Image" src="https://github.com/user-attachments/assets/5c79712d-5043-44d1-9729-6aea678eba22" />
 
 Rida HQ:
 
-<img width="145" alt="Image" src="https://github.com/user-attachments/assets/aa2b77b1-6831-413b-8f0f-cbd37f2eb2e4" />
+<img width="400" alt="Image" src="https://github.com/user-attachments/assets/aa2b77b1-6831-413b-8f0f-cbd37f2eb2e4" />
