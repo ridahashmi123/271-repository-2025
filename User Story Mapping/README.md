@@ -26,6 +26,6 @@ The following screenshots display my USM and its backlog:
 
 Now, for the edited tasks:
 
-<img width="317" alt="Image" src="https://github.com/user-attachments/assets/697dc853-05cd-4911-acfe-1b83884e3999" />
-<img width="318" alt="Image" src="https://github.com/user-attachments/assets/2d85acf3-00c3-4c25-88ee-25536635321c" />
-<img width="316" alt="Image" src="https://github.com/user-attachments/assets/6cf5afb1-9bb7-442b-99ae-ee88d9bd2a27" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/697dc853-05cd-4911-acfe-1b83884e3999" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/2d85acf3-00c3-4c25-88ee-25536635321c" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/6cf5afb1-9bb7-442b-99ae-ee88d9bd2a27" />
