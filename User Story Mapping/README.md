@@ -2,6 +2,9 @@ ENSE 271 Lab 1:
 
 For this lab, we learned about the purpose of User Story Mapping, which is a visual technique used to organize and prioritize features based on user journeys. The goal is to ensure that development aligns with user needs, creating a better user experience.
 
+Link to my USM:https://landofooo.storiesonboard.com/storymap/ense-271-lab-1-assignment-rida-hashmi
+Note: You will need to log in to StoriesOnBoard to use the link above.
+
 Why should we use User Story Mapping?
 
 ✅ Understand the User Journey – Helps teams see how users interact with the product step by step.
