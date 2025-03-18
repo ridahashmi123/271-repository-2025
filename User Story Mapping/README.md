@@ -56,8 +56,6 @@ the tasks schedules for the second release relate more to addditional feedback m
 third step is relevant to the different personas I assigned for the "doing" tasks because I had 2 front-end developers, 3 back-end 
 developers, and one integration tester and assigned them according to the tasks and their statuses.
 
-<img width="959" alt="Image" src="https://github.com/user-attachments/assets/727a1337-48b2-42f1-a7f5-c991a04cbd20" />
-
 The results of these decisions are captured in the visual assignment of the personas in the Discovery screen. Additionally,
 regarding statuses, the MVPs are shown to be mostly done, while the tasks scheduled for the second release are mostly in progress,
 and the unscheduled tasks are still not started on because they have a lower priority than the MVP and secondary launch tasks.
