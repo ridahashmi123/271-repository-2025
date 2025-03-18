@@ -5,4 +5,4 @@ The website I chose to replicate was on dribbble.com.
 
 No pictures used in my replica are copyrighted. 
 
-<img width="900" alt="Image" src="https://github.com/user-attachments/assets/5e75b9a4-8673-4872-a5a8-718f5aae29f6" />
+<img width="1000" alt="Image" src="https://github.com/user-attachments/assets/5e75b9a4-8673-4872-a5a8-718f5aae29f6" />
