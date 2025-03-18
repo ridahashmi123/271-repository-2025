@@ -4,8 +4,11 @@ For this lab, we learned about the purpose of User Story Mapping, which is a vis
 
 Why should we use User Story Mapping?
 ✅ Understand the User Journey – Helps teams see how users interact with the product step by step.
+
 ✅ Prioritize Features – Focuses on delivering the most valuable features first.
+
 ✅ Align Teams – Keeps developers, designers, and stakeholders on the same page.
+
 ✅ Break Down Complexity – Organizes tasks into manageable steps for agile development.
 
 A USM is also an "artifact", which is any physical (or virtual) object created in the process of aiding software development. This includes User Story Maps, Kanban boards, UML models, Requirements Documents.
