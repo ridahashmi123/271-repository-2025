@@ -5,4 +5,5 @@ For this lab, we learned how to install and get started with WordPress. We also 
 The assignment was to develop a persona for a person who is using an application to buy Tickets for a concert, and make a simple blogging website about them using WordPress.
 
 My Perona was Alex Anderson, a typical University Student looking to have some fun with his friends:
+<img width="300" alt="Image" src="https://github.com/user-attachments/assets/26385b3c-6898-4365-a1c4-365993e72f64" />
 
