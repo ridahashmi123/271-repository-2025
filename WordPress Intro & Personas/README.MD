@@ -7,3 +7,5 @@ The assignment was to develop a persona for a person who is using an application
 My Perona was Alex Anderson, a typical University Student looking to have some fun with his friends:
 <img width="500" alt="Image" src="https://github.com/user-attachments/assets/26385b3c-6898-4365-a1c4-365993e72f64" />
 
+The following screenshots are from the WordPress local website which includes a home page, 3 static pages, and a blog page with 3 blog posts:
+
