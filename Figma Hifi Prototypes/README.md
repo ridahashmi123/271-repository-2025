@@ -20,3 +20,8 @@ CherryBlock Mansion:
 Rida HQ:
 
 <img width="400" alt="Image" src="https://github.com/user-attachments/assets/aa2b77b1-6831-413b-8f0f-cbd37f2eb2e4" />
+
+
+Figma File Overview:
+
+<img width="530" alt="Image" src="https://github.com/user-attachments/assets/e33420b6-bb8e-43b4-ac62-6d4d991a5f63" />
