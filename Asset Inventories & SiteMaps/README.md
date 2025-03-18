@@ -4,3 +4,4 @@ For this lab assignment, we used StoriesOnBoard to create a sitemap of a small w
 
 The website I chose was Melula.com.
 
+<img width="900" alt="Image" src="https://github.com/user-attachments/assets/f48fb591-a7b1-4d0e-a856-99cef801cb5d" />
