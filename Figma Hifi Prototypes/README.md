@@ -4,3 +4,7 @@ For this lab, create a virtual tour, we had to create a Figma prototype of a sim
 
 try it out for yourself with this link: https://www.figma.com/proto/fjbsuhvADGIFd41Xh45mSp/Lab4?node-id=3-13&starting-point-node-id=3%3A7&t=RYZuxrsUWgxGXtnB-1
 
+
+
+
+<img width="959" alt="Image" src="https://github.com/user-attachments/assets/6250d883-ae5f-4c93-8b81-c88a287d628b" />
